@@ -36,6 +36,13 @@ class AkunSiswaSeeder extends Seeder
                 'email_siswa' => 'sylvaanisabilla@gmail.com',
                 'password_siswa' => bcrypt('skomda20'),
             ],
+            [
+                'nisn_siswa' => '0039322354',
+                'nama_siswa' => 'Amelia Budi',
+                'tahun_ajaran' => '2020',
+                'email_siswa' => 'ameliabudii@gmail.com',
+                'password_siswa' => bcrypt('skomda20'),
+            ],
 
         ]);
     }

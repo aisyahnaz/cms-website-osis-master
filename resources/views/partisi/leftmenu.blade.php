@@ -30,8 +30,6 @@
                             <a class="has-arrow" href="all-professors.html" aria-expanded="false"><span class="educate-icon educate-professor icon-wrap"></span> <span class="mini-click-non">Master</span></a>
                             <ul class="submenu-angle" aria-expanded="false">
                                 <li><a title="All Professors" href="akunsiswa"><span class="mini-sub-pro">Akun Siswa</span></a></li>
-                                <li><a title="Add Professor" href="tambahakun"><span class="mini-sub-pro">Tambah Akun Siswa</span></a></li>
-                                <li><a title="Edit Professor" href="editakun"><span class="mini-sub-pro">Edit Akun Siswa</span></a></li>
                             </ul>
                         </li>
                     </ul>
